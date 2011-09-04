@@ -6,13 +6,13 @@ Requires at least: 2.8.0
 Tested up to: 3.2.1
 Stable tag: 1.0.0
 
-This plugin registers your site with the Online Skateboard Store Affiliate Program and automatically adds affiliated products to your site's pages.
+This plugin registers your site with the Online Skateboard Store Affiliate Program and automatically adds affiliated links to your blog posts.
 
 == Description ==
 This plugin is the fastest way to turn your Wordpress blog into a profitable revenue source through affiliate marketing.
 
 In a typical Affiliate Program you must register for an account on the merchant's website, wait for approval, read through countless pages of documentation,
-request access keys and affiliate ids, copy/paste product links into your blog posts, etc. in order to place affiliated products in your blog and be paid when
+request access keys and affiliate ids, copy/paste affiliate links into your blog posts, etc. in order to place affiliated links in your blog and be paid when
 people follow your links to the merchant's site and make purchases.
 
 With this plugin, we do all of that for you.
