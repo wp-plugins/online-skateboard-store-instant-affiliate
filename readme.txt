@@ -34,6 +34,29 @@ It doesn't get any easier than this to enter the world of paid blogging through 
 
 == Frequently Asked Questions ==
 
+= How do I add affilate links to my blog posts? =
+
+It is as simple as writing a blog post about the skateboarding industry.
+
+The plugin will automatically replace industry buzz words like decks, trucks, wheels, bearings, completes, longboards, hardware, etc
+in your post with links to onlineskateboardstore.com with your affiliate id embedded in the links so that when a reader of your
+blog follows a link from your blog post to onlineskateboardstore.com and makes a purchase, we update your affiliate account with the order
+and you get paid.
+
+It's as easy as downloading the plugin, activating the plugin, and writing posts about the skateboarding industry that contain the buzz words
+mentioned above.
+
+= What buzz words in my post will get replaced with affiliate links? =
+
+The plugin will find any skateboarding industry buzz words in your posts and replace them with affiliate links to onlineskateboardstore.com
+
+You can use the categories from http://www.onlineskateboardstore.com as a reference for buzz words to use in your blog posts.
+
+Example:
+
+There is a category for risers, if your blog post contains the word risers in the text then the word risers will automatically become an affiliate link
+to the risers category page on http://www.onlineskateboardstore.com 
+
 == Screenshots ==
 
 == Changelog ==
