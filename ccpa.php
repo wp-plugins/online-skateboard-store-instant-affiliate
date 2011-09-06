@@ -20,8 +20,11 @@ register_deactivation_hook( __FILE__, 'ccpa_deactivate' );
 
 add_filter('the_content', 'ccpa_content');
 
+/*
+Commented in case we want to enable it later
 include("ccpa_options.php");
 include("ccpa_stats.php");
+*/
 
 ####
 ## Function: ccpa_activate
