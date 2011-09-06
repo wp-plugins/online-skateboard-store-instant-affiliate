@@ -17,10 +17,11 @@ people follow your links to the merchant's site and make purchases.
 
 With this plugin, we do all of that for you.
 
-When you activate the plugin, it creates your affiliate account with onlineskateboardstore.com using your email address and site name from your Wordpress settings.
+When you activate the plugin, it creates your affiliate account with onlineskateboardstore.com using your email address and site name from your Wordpress settings
+and sends you an email with your affiliate account info so you can login at http://www.onlineskateboardstore.com and see your affiliate sales reports.
 
-When your site displays a blog post, we automagically replace any of our industry buzz words with links that include your affiliate id so
-that when a visitor to your blog clicks on a link and is taken to our site to complete a purchase, you get paid!
+When your site displays a blog post, we automagically replace any of our industry buzz words with links that include your affiliate id so that when a visitor to 
+your blog clicks on a link and is taken to our site to complete a purchase, you get paid!
 
 All you have to do is blog about topics related to our site. We take care of the rest.
 
